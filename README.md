@@ -11,5 +11,5 @@ A simple Flask To-Do application where you can add and delete tasks.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/flask-todo.git
+   git clone https://github.com/rahmansamee/flask-todo.git
    cd flask-todo
